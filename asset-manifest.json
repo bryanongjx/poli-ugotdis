@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poli-ugotdis/static/css/main.f855e6bc.css",
-    "main.js": "/poli-ugotdis/static/js/main.fbf946ce.js",
+    "main.js": "/poli-ugotdis/static/js/main.c06ed2de.js",
     "static/js/453.c5f3a0dd.chunk.js": "/poli-ugotdis/static/js/453.c5f3a0dd.chunk.js",
     "index.html": "/poli-ugotdis/index.html",
     "main.f855e6bc.css.map": "/poli-ugotdis/static/css/main.f855e6bc.css.map",
-    "main.fbf946ce.js.map": "/poli-ugotdis/static/js/main.fbf946ce.js.map",
+    "main.c06ed2de.js.map": "/poli-ugotdis/static/js/main.c06ed2de.js.map",
     "453.c5f3a0dd.chunk.js.map": "/poli-ugotdis/static/js/453.c5f3a0dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fbf946ce.js"
+    "static/js/main.c06ed2de.js"
   ]
 }
